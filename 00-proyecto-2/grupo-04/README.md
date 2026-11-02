@@ -159,6 +159,9 @@ Cada clase vive en sus propios archivos: el `.h` declara, el `.cpp` implementa y
 #### *ejemplo*
 ![grupo](./videos/grupo.gif)
 
+Foto de las conexiones en físico.
+
+![foto de las conexiones en físico](./imagenes/conexiones-proyecto2.jpeg)
 
 ## Diagramas de flujo
 
